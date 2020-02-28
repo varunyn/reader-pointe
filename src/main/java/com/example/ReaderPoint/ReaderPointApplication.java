@@ -9,6 +9,7 @@ public class ReaderPointApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(ReaderPointApplication.class, args);
+
 	}
 
 }
